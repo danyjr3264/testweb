@@ -1,0 +1,15 @@
+{
+    "version": "next",
+    "imageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeifmntnodfu4zcfcbhrtmweobaqrxljlgp6f7u3hwfmg632aopgtpa",
+    "aspectRatio": "3:2",
+    "button": {
+      "title": "Claim Free NFTs",
+      "action": {
+        "type": "launch_frame",
+        "name": "We are Based",
+        "url": "https://testweb-orpin.vercel.app/",
+        "splashImageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeihlfedzfm2ytqeqjrxpt4344ul77ka3pb2hcs4jtk4vxfmsplox3y",
+        "splashBackgroundColor": "#5DB0FF"
+      }
+    }
+  }

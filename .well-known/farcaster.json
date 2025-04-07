@@ -1,0 +1,11 @@
+{
+    "version": "next",
+    "name": "BEPE Mini App",
+    "description": "A simple mini app for BEPE NFTs on Warpcast",
+    "account": {
+      "fid": 1041332,
+      "signature": "MHgwZDA0ZDk5N2Q0Yjg5NDBlYWJjZjY0NTNmYWM0YTg2N2Q5Y2ZkMTY1YTE2ZDBhMjdhNGI2NWU1YzJhNDQxMmEyMmU2ZWQ5ZTY1ZTUwMzJhNGEzNjZiNjZjYWEyMGIzYjEwMjFiMDY2MDVhMjM4N2RlY2MwMTI0ZmFjZWZiYmI1NTFj"
+    },
+    "webhookUrl": null,
+    "notificationUrl": null
+  }
