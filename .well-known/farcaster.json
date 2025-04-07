@@ -13,6 +13,6 @@
     "buttonTitle": "Claim Free BEPE NFTs",
     "splashImageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeihlfedzfm2ytqeqjrxpt4344ul77ka3pb2hcs4jtk4vxfmsplox3y",
     "splashBackgroundColor": "#5DB0FF",
-    "webhookUrl": "https://testweb-orpin.vercel.app/api/webhook"
+    "webhookUrl": "https://api.neynar.com/f/app/7a1fa5b7-d46e-46e9-8bf9-1e370fae4077/event"
   }
 }
