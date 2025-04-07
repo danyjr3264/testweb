@@ -1,15 +1,18 @@
 {
-  "version": "next",
-  "imageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeifmntnodfu4zcfcbhrtmweobaqrxljlgp6f7u3hwfmg632aopgtpa",
-  "aspectRatio": "3:2",
-  "button": {
-    "title": "Claim Free NFTs",
-    "action": {
-      "type": "launch_frame",
-      "name": "We are Based",
-      "url": "https://testweb-orpin.vercel.app/",
-      "splashImageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeihlfedzfm2ytqeqjrxpt4344ul77ka3pb2hcs4jtk4vxfmsplox3y",
-      "splashBackgroundColor": "#5DB0FF"
-    }
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwNDEzMzIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyZTMzNTRiZDc1MTUxNTE1ODFmQTlDOTVkMTA0NzE3M0M3ZUVjNDM0In0",
+    "payload": "eyJkb21haW4iOiJ0ZXN0d2ViLW9ycGluLnZlcmNlbC5hcHAifQ",
+    "signature": "MHgwZDA0ZDk5N2Q0Yjg5NDBlYWJjZjY0NTNmYWM0YTg2N2Q5Y2ZkMTY1YTE2ZDBhMjdhNGI2NWU1YzJhNDQxMmEyMmU2ZWQ5ZTY1ZTUwMzJhNGEzNjZiNjZjYWEyMGIzYjEwMjFiMDY2MDVhMjM4N2RlY2MwMTI0ZmFjZWZiYmI1NTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://testweb-orpin.vercel.app/icon.png",
+    "homeUrl": "https://testweb-orpin.vercel.app",
+    "imageUrl": "https://testweb-orpin.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://testweb-orpin.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://testweb-orpin.vercel.app/api/webhook"
   }
 }
