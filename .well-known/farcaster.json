@@ -6,13 +6,13 @@
   },
   "frame": {
     "version": "1",
-    "name": "Example Frame",
-    "iconUrl": "https://testweb-orpin.vercel.app/icon.png",
+    "name": "BASED BEPE",
+    "iconUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeigl52oq5hpfmndpm6gelkw6gdp2hoxmkc7q6bowxjkcdmuac4qa7m",
     "homeUrl": "https://testweb-orpin.vercel.app",
-    "imageUrl": "https://testweb-orpin.vercel.app/image.png",
-    "buttonTitle": "Check this out",
-    "splashImageUrl": "https://testweb-orpin.vercel.app/splash.png",
-    "splashBackgroundColor": "#eeccff",
+    "imageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeifmntnodfu4zcfcbhrtmweobaqrxljlgp6f7u3hwfmg632aopgtpa",
+    "buttonTitle": "Claim Free BEPE NFTs",
+    "splashImageUrl": "https://blush-hidden-mongoose-258.mypinata.cloud/ipfs/bafybeihlfedzfm2ytqeqjrxpt4344ul77ka3pb2hcs4jtk4vxfmsplox3y",
+    "splashBackgroundColor": "#5DB0FF",
     "webhookUrl": "https://testweb-orpin.vercel.app/api/webhook"
   }
 }
